@@ -1,10 +1,10 @@
 // VARIABLES
-$blue: #1E8BC3;
-$bg: #ecf0f1;
-$gold: #F9BF3B;
-$green: #03C9A9;
-$red: #EC644B;
-$merge: #34495e;
+$blue: #1c1c1c;
+$bg: #343434;
+$gold: #9f0000;
+$green: #272935;
+$red: #d67626;
+$merge: #f44336;
 
 html,body{
 	padding: 0;
